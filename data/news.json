@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T09:53:35.730361+00:00",
+ "updatedAt": "2026-11-11T17:33:34.415881+00:00",
  "items": [
   {
    "title": "Havre Athletic Club - FC Lorient - (0 - 2) - Résumé / 2026-2027",
@@ -36,6 +36,12 @@
    "source": "Paris Normandie",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQXV3QURUUWV2OVFJWGVzVDBDRkNIcWdRcmFTeVpPN2FLNFZsV29QNklVS1lMZ0RKY3FJYTlPVVhlcy1WZjRsV05lNWhha3pXajZ5WGYyUU03SU4xM0djYlFmTEtnYUt0TW5lS0Vjemc3dXNEVEQ1NHZLME9yNHZQckluQ1lhZGNaVzlELWpxbUxiMVFMYjBhdVlHWGN5QUE4Rjkxak82bkliZ2RiRzhqQm5LZmo0VVpWMTBmaF9B?oc=5",
    "date": "2026-11-09T18:21:36+00:00"
+  },
+  {
+   "title": "Podcast. Le Débrief 100% HAC revient sur la semaine où Blue Crow a tout bousculé",
+   "source": "tendanceouest.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMENYbW1iNm0wRHdweF9NcS05WDAtUXVNcFNaX1NWN0tQRG44SVhPQ25UVmx1RFFReWQxdWpGRGRDS3o1Z3lCQW4ySDNzajVLOUExYkh6YXVBNzVRMXU0aUlDTkxybEtJSGJPZ1dnM0JSMHFDUjhEeGpxTDNWTmRkLVRVX1RwblRWLVp5ZFQwSXlmNVVqSkJYc3ZmbGRLWC1PU3hYNlVIMEQyV3dUMnN6Ul9nYnluN2pUS2hPcVBoMEptQWM?oc=5",
+   "date": "2026-11-09T17:00:00+00:00"
   },
   {
    "title": "HAC - FC Lorient (0-2) : le résumé de la rencontre",
@@ -96,12 +102,6 @@
    "source": "Foot Mercato",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0FGUTNiNUp3SXZyeUhrbXI3OFpOWlRsNkNkUTBrOWExU0FiNTJNbWM1VC03SDZ5S3JkS1pSZk1BNDY4YURqbnZ5eEJVS1FQbEJEODhuTUkyaWJMdFVRNkdRLXR2WVlnZ01DTjVIclZPQlhPcmRLclphUFBvZ2ktOVFOR2k5R2lDbzNDVE1UTjFDT2pCZTlWbXBSZGVLbXp3OF9fUjRNSU1IRHFKZDBCMg?oc=5",
    "date": "2026-11-08T16:40:01+00:00"
-  },
-  {
-   "title": "Ligue 1: Le Havre-Lorient en direct",
-   "source": "Sports.fr",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnY2X3FOa3czdXBjUGIydkR2eEFENlE1MG9ydmdWWWRrYkxzQTVrVF9tcFY3dG1BUV9MNXI1RndLSS13anV6anQtWDI0bDhNU3EzeHlSNXNERDFGeUIwQV9Pa3pCY3FzRkFnVGl3NC1HaVdTT0ZkSklBT0p5dmp3am9kWjY?oc=5",
-   "date": "2026-11-08T16:23:46+00:00"
   },
   {
    "title": "Les fans du Havre manifestent leur colère avant la réception de Lorient en Ligue 1",
@@ -242,22 +242,10 @@
    "date": "2026-11-06T17:23:55+00:00"
   },
   {
-   "title": "Ligue 1 : Alaoui veut un coach au HAC avant Troyes",
-   "source": "PenseBet",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9CV0xRWEVabDNQNUlrTlZydGJLNWdyRTBnT1pmcl9hdnRIUXQ0TVNWbTAxTEQ3WXl3OERsdGJONkVYcmY4ajRYanloUjlaYVR4RWZqN0VzTlJab1R4TThkQk1xLTdCQkVTY1N3Ym1xR3VmbjliZTBTSkFR?oc=5",
-   "date": "2026-11-06T17:07:17+00:00"
-  },
-  {
    "title": "Ligue 1. « On a beaucoup souffert » insiste le président du Havre qui veut que « tout le monde tire dans le même sens »",
    "source": "Ouest-France",
    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNNTRpNkYzdVJKc001RlNIRTNLbHMwNGVYX3dacERvY0pVM09lYVNwbWhRWGdGaXM5OEF4WjE0S2YwbjBjRDM5RllEdURNbS0zdnVFQkNKaW9QbDhFVU4yelFJMGFIelNhelIxNzNRaXhIVFQxN1ZRUWVoNE44aGd4TU5fX21PQS1hNV9fUmFZdUR3bjNZS3pqZ01BRV9xOFRDcGY0SkN0aWdtTzBhTVlWQTZFNUVXcHloYW84WjJtR3hiQm0ySFE1c2RVbGhSNWE4OXl4MzZvQnRiWldGVzVGNXRCbDN4ZEdKZlByeHFXMzFmekVMMmZLRElwNVFMdUhpZm5QUHZoZFBSeDFjbHlZOWlXWjlkN0xhNU9tZzMxNFFXWnROYVF4dktR?oc=5",
    "date": "2026-11-06T16:47:43+00:00"
-  },
-  {
-   "title": "Le Havre. CMA CGM devient \"partenaire premium\" du HAC, le stade Océane pourrait changer de nom",
-   "source": "tendanceouest.com",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOEg3OHQ2S3RxYUZDYUxsTW1qY1FoQnVGSi1FVmxGZHJZVl9weE5tZF9mNUlCUldfaUJmTUZPakVrRE9BMExIMXZOdGxCQnVLNkg5Mzh4em1UODdoRjJ2U3dpX2FGU1NOd05pbDZUMm9tR3E0NmZ6LVYtYXFzdFdkUmUxMkZjSmN6NTlleEpmUUxHakg5R0EteXpOODZqMmRCWmc4MGVoSTZ2WDNMQVdmN3pmbFVsMW83VmdaWFVYVlZIQ0RUMHZuTmo2WjRVTUxoZmVj?oc=5",
-   "date": "2026-11-06T15:54:25+00:00"
   },
   {
    "title": "Digard, Roussier, futur entraîneur, supporters... Voici les questions auxquelles le nouveau président du HAC a répondu",
@@ -314,6 +302,24 @@
    "date": "2026-11-06T04:40:00+00:00"
   },
   {
+   "title": "Le Havre : le nouveau président et le nouveau directeur sportif sont connus",
+   "source": "Onze Mondial",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnhpekF6Vk42R1B6RXhQMW1aVmgzYWtQc0NjSTQ4LU9Ib3VWdnBtOVFjX0JES0kwMkwzSURBN1FobkhHVXJYeV9PWUhxeEdDVkMyVGI1MFE0NnMwWVdqeW00ZkpVU2JuRTg2WUc5NDV1UnppMGJURWRkb1B6dUMzdzJaSURQNmxZbUp4ZHV6bzRqNXdobkRUcnZQLTdoZmJmYjlfbkUzU1ltWmRoUUh4bFZyMU1MV0c0?oc=5",
+   "date": "2026-11-05T20:42:00+00:00"
+  },
+  {
+   "title": "Le Havre : Yacine Alaoui devient PDG, Quentin Rauzier nommé directeur sportif par intérim",
+   "source": "Foot National",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRTRKQ0UwdnI0Y21uNGI3ajZuX1B1UENNOWFQSlN1X3ZteWY0M045UXY1R0ZrN3FoRzF3YnFXdlpta2lGemduV19vT3RUZHgza3dCQm9wR3pqblZhbmw4cVJnTFNOd0ozWnROTzIzSzJfdUNaM0MyaWNVSzJNZmg4OEtOeHpVWGtiTnVoTjRYMjZxNk1ucFE3bkFYb0otUHdDTk5KdEVGbktPdFd1cTZKN3daYUhMUzhQbU5zXzVUMlNkdjdqQUJxZQ?oc=5",
+   "date": "2026-11-05T19:23:00+00:00"
+  },
+  {
+   "title": "Le Havre AC - Le Havre Athletic Club tient le successeur de Jean-Michel Roussier à la présidence (officiel)",
+   "source": "MadeInFoot",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORVBzVzV5dC1KNGs4VTVmUF9CYVdEY1M5dVdGOGE4cGE5Zjl6UlZHX3pIUHlXc0FGdEhhTDMxSFlqM0FuTkNxbGluSnlNSFh3NXFIbm9GcEt5d0xKT1dzSWZPbVRlLWNtYVZvTnZBRGZWRzlCYmVpV2RYUUwwX2NaMk0tclAwYUw5cVdIbWVMaXVDaG56MzZBTHpDNmE0anJibGluVXFEeXJDZ0JXMXB5cFNHUUREZUFvaUhhMTVudExYTF9uVjBNdklELUdiVUt0LUMzT2xOVzZSVzRxVExnLXFWS0lwTENuRmcxVGEtZHBVMjlpcVBN?oc=5",
+   "date": "2026-11-05T18:27:00+00:00"
+  },
+  {
    "title": "Le Havre : Yacine Sossé Alaoui nommé président-directeur général",
    "source": "Foot Mercato",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX24wMGMxVDQxa2l6M2Y5X0ZNUE9MU3VNazlnTUMyakhlVFlWRzNZM254NW5VaUNmTmxDZEpBZkt3X2YxTVhoT3VIaWg0WjFieUd5U3FPeXVwU2FHeHpvVWNGRGhrX3JQbjY0OEJkRXBsM3ljVnRHUVFyWUZkanFDY3Bkc3F3aG8tS01aNFA5QUFpZmVWLXlKZXZiZ0liZ1JHMVhRVU9zVFlHSk51RTZnRQ?oc=5",
@@ -324,12 +330,6 @@
    "source": "Paris Normandie",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQTBDc1RPbkFkSWJxUDVIUDZGSkliVjMtdFFCV29MT2N3bUNPZnlTSDlRRll1UTNMLVk5RDNNVDFpQlp1djBvc28tSHA0X0kzdGpBdlFKbHh3bzIxS0htWFpENzl1N21aT0NpTFZwSjFlSXBSSEhMUGhwUk5kaTl4QUF5WGlDaXFvTGpGenhVVEliaE5mbFBIeUtiMGFNdmlibVZldk1hWF85eDNmWjBkUzlQVTF5RUYzcXJHNXJKcHNFVzJvZHhUeEh3?oc=5",
    "date": "2026-11-05T17:45:49+00:00"
-  },
-  {
-   "title": "Communiqué officiel du Havre Athletic Club",
-   "source": "Havre Athletic Club",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVE0QXZtRjFEUU5aZlJIWnZVQnlQaG5DeEZ3OG56UVBZV256ai1ycEpaUWo2aWRJVlYwSVhKTEtrNkl4eGFYZ2ZHUGRPVEwtQWt2dW1INXNkYlh6SGJtOVVON0lNUVNZNzRWUTJaVGRxTll2OGdqMVhQNXktNWNtbXJoY2RSX3VjWGtnZVVWcjExUQ?oc=5",
-   "date": "2026-11-05T17:00:21+00:00"
   },
   {
    "title": "Avant PSG – HAC : avec humilité mais sans complexes",
@@ -372,48 +372,6 @@
    "source": "www.live-mercato.com",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVi0zQ1VwbWdFQzNHNWc5dHo5LTVyVlJZUW5DS1o3bmwtaGNySDhrR09nejQ3OHFEMGFHelhLWG9Za0RDSDd0dGstM2w3SnhxVWpzZFp4a2hzUE0xd3hmM28xbkFsdG1WVTRFRGE4QVQxZ3BDUkMxNXBnMnpRdEpqQmphRUgyb3VGTzdxZlhyNk1oU0p6eHRuY1lxMlRoU0dEXzl4anU5RQ?oc=5",
    "date": "2026-11-04T18:20:00+00:00"
-  },
-  {
-   "title": "Le HAC en pleine tourmente : entraîneur écarté, dirigeants démissionnaires… Les supporters s'inquiètent",
-   "source": "France 3 Régions",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNlVMSUtzZFZ2djJzUjM4elVBUVFVOFFKNlJ0dlFKd2NweUZQdFNqTDNTWDZYMnM3aUR2QzhpTmcyYlNSVzFfLVoxQmFyb3BTa0VnenhhZnAwdlNWbkpGbl9oZVE3QWw4aklfMGxMZ1dtZlJ6QlBUQlNZbFdFeW9RdVRpcnk4cy1kV09idXZ3cGxKRDFaQmUwWmlSUGs5ZUx3djlWWDJEX2JQOW5DZURIMUYwU1lMNHJoUkFWeExtSkVua0RIbnk1OEtaTWItSUdOZUs3NFh0SFhjWnh5LVZjVGNrRDkzZHAtb3dhXzZsTWdGcVY1Q1dieHp3?oc=5",
-   "date": "2026-11-04T17:19:10+00:00"
-  },
-  {
-   "title": "« Le HAC, c’est notre club » : crise au Havre, les supporters réclament le départ du propriétaire américain Blue Crow",
-   "source": "Actu.fr",
-   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWmRFN1cyX2VEM0M0X3RtZzZWQ2JlVllUS3k4SXdjX0NXOVVaN1p4SDRFd0hlS0hUR1c2YjNFeUQwWXktNjRySjY1LWw5RVVILXk0Q0RxalhGYlRBT012V0tpanR4NTZqQzJPOTBEUG9tVGV0Q1Z1RzVBQlVBRHBnakY1dDA3Y283VHFiSEFyM1lVUl9XUWFKZEVFYXI1d3doTl9tVmxHZ0xrYzVZcHpjbTFmcmZyRFlCU2loYkhlMGRUSGNKMDFTYmJPcVBta3ktOFVWX25ObHhsTDd5ekVmSklDeXMtRzBzeFdtTzk5ekdVX1RwN3dF?oc=5",
-   "date": "2026-11-04T16:46:01+00:00"
-  },
-  {
-   "title": "Le Havre sort la carte Antoine Kombouaré",
-   "source": "Foot01",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qTWI3djJ4X1BmUzcxdDN1VGVmSVZ2TXdBOF9kOUhHQTBJOE9xRlRiQXNHUGN1VkpoYXhlZG8wZlppN1E3VmhJUjNLNlczbklLYzhmb3dZanFaT2F6cFZvaW1aWk5GX2c0U3lHajhLbTQzdlRuYXNFZTcxWFI?oc=5",
-   "date": "2026-11-04T14:20:00+00:00"
-  },
-  {
-   "title": "Antoine Kombouaré est en passe de rebondir au Havre",
-   "source": "Foot Mercato",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNHJLaXctM2F6Z2NINTBNSGVBbGltVWtYNnVhUEtiUk5zaWhieUh2YWV4RTdCajNFOV8zRERSOFdXNFpIbjlNZUdHYXlGRkFxM0d0RGdaLVN6R0tWNm1Hb1JzUkNqaEhnVUNsUWF3SVBpbm1jTWpwd3ZrTGdjWTBtSUFsSWZNZGl1eFVUT2pmVDhLbGhEeEFYVXM0OEtiME82b0E?oc=5",
-   "date": "2026-11-04T11:54:38+00:00"
-  },
-  {
-   "title": "Mercato Le Havre : Dhorasoo prêt à tenter le grand saut, un choix trop risqué pour le maintien",
-   "source": "www.live-mercato.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbFE1cnNZZFRlYzJWTUhRdFdPX1o5OWFRU3BEcUFGektLV3B1QmVUWEozUHNZcW03MmxfT1hBQVRHX0QyV2JJYnRsT0hVSWNkaHI4TjFJaXlrNURTYU4tcGZqWGt2eTFOVkkwSnUwcTdsS1A2cVFtQ1pKS1ZJLWc4STJkSVUxX1hZbHJ6ejFBRUVHaDZLeGV0MEZDcy1FVnV4cTVKT2ZfN3c3eXpsem5SN2hFeHBXMUhnRzJNWC1fdGtUcVJ3UWpVOGdUVE9IdXMw?oc=5",
-   "date": "2026-11-04T11:30:00+00:00"
-  },
-  {
-   "title": "Football – Ligue 1 : le HAC tout droit lancé sur la piste Antoine Kombouaré",
-   "source": "Paris Normandie",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVW1BVzVtT0ZzM0Fud2xpY0FSU2ZOZjZWNXNUcXFqWkM0akM0TTNiZGpuQzFrNHpJcGh4OUt5bFo0cVJtSkh4eHJ0eC1zTzVVeVowZnF5ZW45N0pnVjBVZjNHUmdMRmltRFhZOGtPUVEtVFNCVWJyc05xaDFFMk40czlvOXhVREdsU2M4OV9VVWYzaGNYZ2dCMTBfb1R2NUpBcWU3RjcwRTZRdC11R2dMVVZocloxV2Voa2s2dktNQW5acW83NkpLZVhB?oc=5",
-   "date": "2026-11-04T11:15:07+00:00"
-  },
-  {
-   "title": "Ligue 1. Vikash Dhorasoo veut prendre les commandes du Havre : « Le club a besoin de quelqu’un de la maison »",
-   "source": "Ouest-France",
-   "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQd0dLRS1VY29KZzVQRW53WkRDc2dGVFhnZ2JqZTh3eUpIdzB0MnQ2T2VIV1I4N0ZhYWdpdE1xV0lJQ0tSM1NQSWRfY0QwUFJrSnJqRTJ0ZThOMG8yMGUwR1dnODlSLVVQRGlUSmNmSGt0N1F3YUJtYktmeExodEN6b1RWU3F6Wk43aWVoeWFYQm5MTFRtSGtSM2tWUE41dEJWMUtpZWVYMGp1ejNvQW5vNmExdjdUblVBSXJBVVp4enc0WlZnUUNXM3FLSnlqcUZ5RHdENDNhLVhVQmZrZk1Kci1ES3Zyd2xxc2JVZkZxX0phYlRueVVNbmVjTC03aFQtcVZsNTdNYlVySC1nNWgydU1QQTNMVE5rNDlXSUVR?oc=5",
-   "date": "2026-11-04T11:13:35+00:00"
   }
  ]
 }
