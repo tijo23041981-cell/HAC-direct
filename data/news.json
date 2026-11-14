@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T15:50:03.171615+00:00",
+ "updatedAt": "2026-11-14T20:09:45.102326+00:00",
  "items": [
   {
    "title": "Football – Ligue 1 : mis à pied par le HAC, Didier Digard s’engage avec le RC Lens",
@@ -128,12 +128,6 @@
    "date": "2026-11-12T18:06:15+00:00"
   },
   {
-   "title": "Ligue 1 : lanterne rouge, Le Havre confie les rênes à Valérien Ismaël",
-   "source": "Le Figaro",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSE9rRy1XUlNsd3djZm5ZTDZPWUFhLTd4RGhsMlAtdWJsdFRJWlZJMUx0eVVHTlFINlhTQW10Q1J5WG9pa1R3QWl5MGhwSWZUVzdxQ25PZDB5TWQ1V3BpcFkxTUtkSTV6MXNnRjVoMDFDRTFRTk9FVFpPd19NN1NjalRUbnM4Zmtrc2pETjJndE50cHVZbHVnSzlnSjgwdVRBekx5ZWp0YTJLN2FyMjAxSWgwVTZNOGVsRmJYYUREbXM?oc=5",
-   "date": "2026-11-12T18:00:07+00:00"
-  },
-  {
    "title": "Le Havre nomme Valérien Ismaël entraîneur",
    "source": "Foot Mercato",
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVkJ4dkNRVG9sQlI2MVZnTV9BR3FyY19ma09RSFlvdnlLMVU5bV9rclR3MGt2SmtQZGkwRUNaMVVGbXFfX014cDlGZlRIeDZ6OWFSMUVqMHE2NXkxOXhsSFBxaFRBNS11bmxWLTNIRlktZUgzZGRFT2MtSDUzZ0wzXzhDNmpoRzBpUzdrYncxeTZ0enRa?oc=5",
@@ -246,6 +240,12 @@
    "source": "Paris Normandie",
    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdFNobjJmRlRBanM0Z1pXLVVOOTBDVUFvandlbE9yYnB4dXhnSThTM2VlTzg0M0hCODlLbVhLRmNSZS05XzA2ZWdpMFZpbHhsa3pYVldYcGhDMERCSjZwVDNkSXRoUHFJNDJIVmNCZ1JYLXVIY1lQdms0OGtEclhZMUtPUU41UDdFM3otRzdmalVjWjNYWVhfZEd4ZENBM2dVb3lfcDZuRjBmN1ptb2Jnd1FZN3hXc0tnTFlac0lVUV93czJZM1RVMlBwSy0ybTQ?oc=5",
    "date": "2026-11-11T20:40:49+00:00"
+  },
+  {
+   "title": "SAMBRE AVESNOIS HANDBALL vs HAVRE ATHLETIC CLUB HB",
+   "source": "Fédération Française de Handball",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmRzbk5YcTBHdnFwNGh0NlJWVzdtNmhIazBBdVF0T2pNQVF2MEo2Q1FmVVVqV0hDT3pUSTRJS1RCUWpyLUhpQXE1TUItWngxc2UxbGZwTm5BZEx1c0lPWTBxUTZ2aXprMTROLTZ2NWpFeThITjFpd1FWa2hXQmkxd3Jpdzk1d0ttMzdwekloTkRjOXJkbF9hd0NSUFBBT2duRnlvSUtiOENUenVicG1BQU9tRi1hWXZPcWxYUjhOazZlb1NRRVE?oc=5",
+   "date": "2026-11-11T19:30:00+00:00"
   },
   {
    "title": "Le Havre : après la piste Kombouaré, le HAC veut Valérien Ismaël pour remplacer Digard",
@@ -408,18 +408,6 @@
    "source": "www.live-mercato.com",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcG1BU0VFdFN4d3A1SlRVX01QcmZqeFhrT2pTTDlUZlkzR3lIWmtVQnpjVVBDOW5OUV9NSmtwb3NkdHNuU2xwdzg2SzhkRS1LVUlkVVFONk9ZNUw2ZDVpcmpWdnhCd3I2a2FBSzhQMlhGNU9JbG1xaWhCT29jc3BVUU04LTJJYnZEblRMTDNkZ2RSU1IwVjdMeHpSMDZWM1FRMllXNU5rSlVhNzVKRm1DMEpseVBPdjZfZjNabjlsbExwM2E0RGxvaVFHVk5nalUtOTRnWXlhYmFhcHB6X1FYNzlaY1Y?oc=5",
    "date": "2026-11-08T05:10:00+00:00"
-  },
-  {
-   "title": "HAVRE ATHLETIC CLUB HB vs STADE PESSACAIS UNION CLUB HANDBALL",
-   "source": "Fédération Française de Handball",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNGNfUG5YNjVCNXJreC11UlpocHhKenF2eEVNT2s5S2tNWEVremE3MzJNSmN3OXh6cHViNTEtLXlndzhHU1lLUzhIeTJ5SUZhYlprS0pCZms2M0diNS01ZDVRZXFjUkpNSmtRbHJqWGZuNVB2UHgzLXBwTXZmZ3VOUlZ2QmF1dTBUTTJ4TzBGRE5zazY3NW9NZFdsSXFhdDZsbFZxeHNQWnY0ZHB0UUl2ZFJNTXhteFRRUWR4OWJSSTNEZ1RTamc?oc=5",
-   "date": "2026-11-07T19:00:00+00:00"
-  },
-  {
-   "title": "Le Havre : après Dhorasoo, une surprenante candidature pour le banc du HAC",
-   "source": "Foot en France",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGFjb3ZwU1ZnOG9yTTFrU1J0azhyQ25fSzFqQy1CZ0ZNM1pJbXhTTEdxWlJId0Q3dG9hSEU5UnIzVFZNWHB3ZEs1Tnp3WHFsSExfLVpVSk4tNDRGY0YxUXZ0TmVOWGNCLVNjamJxWDhFU09RbmZUbnh4aHhvMTRNV3FJTHlta2dUNmhSRUVsemQzWHJrTHJVT28zQzI4QmprSmRGVlN1WktYM3RRZURB?oc=5",
-   "date": "2026-11-07T18:20:00+00:00"
   }
  ]
 }
